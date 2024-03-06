@@ -3,5 +3,5 @@ username: admin@username
 password: admin@password
 
 Данни на потребител:
-username: so@gmail.com
-password: 123
+username: jane@gmail.com
+password: jane
