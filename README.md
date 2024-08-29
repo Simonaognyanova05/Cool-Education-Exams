@@ -1,3 +1,6 @@
 # Cool-Education-Exams
 This is examination system.
-Created by HTML, CSS, JavaScript, PHP.
+
+The project was created using HTML, CSS, JavaScript and PHP.
+
+With this project I participated in the National IT Olympiad and in a National IT competition.
